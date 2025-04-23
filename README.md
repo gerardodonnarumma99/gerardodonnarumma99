@@ -1,6 +1,10 @@
-### Salve 👋 
-Sono Gerardo Donnarumma, laureato in Informatica e Software Engineer nel tempo libero. Attualmente frequento i corsi della Laurea Magistrale Informatica, indirizzo di Cloud Computing.
-Scopri di più su di me e sentiti libero di connetterti con me qui: 
+<h3 align="center">
+        <samp>&gt; TEST TES fdfaff
+        </samp>
+</h3>
+
+### Hi, I'm Gerardo 👋 
+I graduated in Computer Science from the University of Salerno, completing both my Bachelor's and Master's degrees with a specialization in Cloud Computing. My passion for technology has always been strong, and in fact, during my studies, I began my career as a developer. My motto is: "Never play for the audience" – Follow your passions, even if they're not always understood by others.
 
 [![Linkedin Badge](https://img.shields.io/badge/-gerardodonnarumma99-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gerardodonnarumma99/)](https://www.linkedin.com/in/gerardodonnarumma99/) 
 [![Gmail Badge](https://img.shields.io/badge/-gerardodonnarumma99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gerardodonnarumma99@gmail.com)](mailto:gerardodonnarumma99@gmail.com)
