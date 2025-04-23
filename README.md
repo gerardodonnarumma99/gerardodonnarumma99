@@ -8,6 +8,7 @@
 
 🌱 I believe that true success lies in staying true to yourself and your interests, no matter how unconventional they may seem to others. 🚀
 
+
 ### ℹ️ A little more about me...  
 
 ```javascript
@@ -23,6 +24,7 @@ const Gerardo = {
 }
 ```
 
+
 ### 📞 Contacts
 
 <a href="https://www.linkedin.com/in/gerardodonnarumma99">
@@ -31,7 +33,6 @@ const Gerardo = {
 <a href="mailto:gerardodonnarumma99@gmail.com">
   <img src="https://iili.io/3MJqNqX.md.png" width="30" />
 </a>
-
 
 
 ## 🛠️ Some Skills
