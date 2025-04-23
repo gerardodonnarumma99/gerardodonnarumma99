@@ -1,4 +1,4 @@
-### &gt; Hi, I'm Gerardo 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+### Hi, I'm Gerardo 👋
 I graduated in Computer Science from the University of Salerno, completing both my Bachelor's and Master's degrees with a specialization in Cloud Computing. My passion for technology has always been strong, and in fact, during my studies, I began my career as a developer. My motto is: "Never play for the audience" – Follow your passions, even if they're not always understood by others.
 
 ### ℹ️ A little more about me...  
@@ -20,6 +20,14 @@ const Gerardo = {
 
 [![LinkedIn](https://iili.io/3MJqO1n.th.png)]([https://freeimage.host/i/3MJqO1n](https://www.linkedin.com/in/gerardodonnarumma99)) 
 [![Email](https://iili.io/3MJqNqX.th.png)](mailto:gerardodonnarumma99@gmail.com))
+
+<a href="https://freeimage.host/i/3MJqO1n">
+  <img src="https://iili.io/3MJqO1n.md.png" width="50" />
+</a>
+<a href="https://freeimage.host/i/3MJqNqX">
+  <img src="https://iili.io/3MJqNqX.md.png" width="50" />
+</a>
+
 
 
 ## 🛠️ Some Skills
