@@ -18,11 +18,8 @@ const Gerardo = {
 
 ### 📞 Contacts
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerardodonnarumma99)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gerardodonnarumma99@gmail.com)
-
-[![3MJqO1n.md.png](https://iili.io/3MJqO1n.md.png)](https://freeimage.host/i/3MJqO1n)
-[![3MJqNqX.md.png](https://iili.io/3MJqNqX.md.png)](https://freeimage.host/i/3MJqNqX)
+[![LinkedIn](https://iili.io/3MJqO1n.th.png)]([https://freeimage.host/i/3MJqO1n](https://www.linkedin.com/in/gerardodonnarumma99)) 
+[![Email](https://iili.io/3MJqNqX.th.png)](mailto:gerardodonnarumma99@gmail.com))
 
 
 ## 🛠️ Some Skills
