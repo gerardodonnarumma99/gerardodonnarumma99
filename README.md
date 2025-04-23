@@ -1,18 +1,18 @@
 # Hi, I'm Gerardo 👋
-<a href="https://www.linkedin.com/in/gerardodonnarumma99">
-  <img src="https://iili.io/3MJqO1n.md.png" width="30" />
-</a>
-<a href="mailto:gerardodonnarumma99@gmail.com">
-  <img src="https://iili.io/3MJqNqX.md.png" width="30" />
-</a>
+🎓 I graduated in **Computer Science** from the **University of Salerno**, completing both my Bachelor's and Master's degrees with a specialization in **Cloud Computing**.
+
+💻 My passion for technology has always been strong. In fact, during my studies, I embarked on my journey as a developer.
+
+💬 _My motto_:  
+**"Never play for the audience"** – _Follow your passions, even if they're not always understood by others_.
+
+🌱 I believe that true success lies in staying true to yourself and your interests, no matter how unconventional they may seem to others. 🚀
 
 ### ℹ️ A little more about me...  
 
 ```javascript
 const Gerardo = {
   role: "Software Engineer 👨‍💻",
-  description: "I graduated in **Computer Science** from the University of Salerno, completing both my Bachelor's and Master's degrees with a specialization in Cloud Computing. My passion for technology has always been strong, and in fact, during my studies, I began my career as a developer.",
-  motto: " 'Never play for the audience' – Follow your passions, even if they're not always understood by others."
   interests: ["clean code", "dark mode everything", "coffee-fueled debugging ☕"],
   projects: {
     githubReadme: "Trying to make this look cooler than it probably is 😅",
@@ -26,10 +26,10 @@ const Gerardo = {
 ### 📞 Contacts
 
 <a href="https://www.linkedin.com/in/gerardodonnarumma99">
-  <img src="https://iili.io/3MJqO1n.md.png" width="50" />
+  <img src="https://iili.io/3MJqO1n.md.png" width="30" />
 </a>
 <a href="mailto:gerardodonnarumma99@gmail.com">
-  <img src="https://iili.io/3MJqNqX.md.png" width="50" />
+  <img src="https://iili.io/3MJqNqX.md.png" width="30" />
 </a>
 
 
