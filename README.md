@@ -3,8 +3,12 @@ I graduated in Computer Science from the University of Salerno, completing both 
 
 # Contattami su
 
-<!-- LinkedIn Icon (rotonda) -->
-[<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="40" height="40" style="border-radius:50%; background-color:#0077b5;"><path fill="white" d="M17.8 2h-11.6c-.99 0-1.8.8-1.8 1.8v11.6c0 .99.8 1.8 1.8 1.8h11.6c.99 0 1.8-.8 1.8-1.8v-11.6c0-.99-.8-1.8-1.8-1.8zm-9.2 13h-2.5v-7h2.5v7zm-1.2-8.5c-.8 0-1.5-.6-1.5-1.5s.6-1.5 1.5-1.5c.8 0 1.5.6 1.5 1.5s-.7 1.5-1.5 1.5zm8.5 8.5h-2.5v-3.5c0-.8-.6-1.5-1.5-1.5s-1.5.7-1.5 1.5v3.5h-2.5v-7h2.5v1c1.2-1.8 3.5-1.5 3.5 1.5v4.5z"></path></svg>](https://www.linkedin.com/in/yourusername)
+<!-- Icona rotonda LinkedIn -->
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg)](https://www.linkedin.com/in/yourusername)
+
+<!-- Icona rotonda Gmail -->
+[![Gmail](https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Logo_2020.svg)](mailto:your.email@example.com)
+
 
 <!-- Gmail Icon (rotonda) -->
 [<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="40" height="40" style="border-radius:50%; background-color:#d44638;"><path fill="white" d="M12 2c-5.52 0-10 4.48-10 10s4.48 10 10 10 10-4.48 10-10-4.48-10-10-10zm4 11h-3.1c-.3 0-.5-.2-.5-.5v-1.5c0-.3.2-.5.5-.5h3.1c.3 0 .5.2.5.5v1.5c0 .3-.2.5-.5.5zm-5 0h-3.1c-.3 0-.5-.2-.5-.5v-1.5c0-.3.2-.5.5-.5h3.1c.3 0 .5.2.5.5v1.5c0 .3-.2.5-.5.5zm-1.1-2.8h-1.9c-.3 0
