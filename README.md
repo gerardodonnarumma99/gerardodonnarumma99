@@ -32,6 +32,8 @@ const Gerardo = {
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Cloud](https://img.shields.io/npm/v/npm.svg?logo=googlecloud)
 
-## ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png) GitHub Stats
-![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=gerardodonnarumma99&theme=react-dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gerardodonnarumma99&langs_count=8&layout=compact)
+## 📊 GitHub Stats
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <img src="https://activity-graph.herokuapp.com/graph?username=gerardodonnarumma99&theme=react-dark" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerardodonnarumma99&langs_count=8&layout=compact" width="45%" />
+</div>
