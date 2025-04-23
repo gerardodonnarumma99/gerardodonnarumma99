@@ -18,13 +18,10 @@ const Gerardo = {
 
 ### 📞 Contacts
 
-[![LinkedIn](https://iili.io/3MJqO1n.th.png)]([https://freeimage.host/i/3MJqO1n](https://www.linkedin.com/in/gerardodonnarumma99)) 
-[![Email](https://iili.io/3MJqNqX.th.png)](mailto:gerardodonnarumma99@gmail.com))
-
-<a href="https://freeimage.host/i/3MJqO1n">
+<a href="https://www.linkedin.com/in/gerardodonnarumma99">
   <img src="https://iili.io/3MJqO1n.md.png" width="50" />
 </a>
-<a href="https://freeimage.host/i/3MJqNqX">
+<a href="mailto:gerardodonnarumma99@gmail.com">
   <img src="https://iili.io/3MJqNqX.md.png" width="50" />
 </a>
 
