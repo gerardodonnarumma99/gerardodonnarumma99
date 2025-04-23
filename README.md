@@ -33,7 +33,4 @@ const Gerardo = {
 ![Cloud](https://img.shields.io/npm/v/npm.svg?logo=googlecloud)
 
 ## 📊 GitHub Stats
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-  <img src="https://activity-graph.herokuapp.com/graph?username=gerardodonnarumma99&theme=react-dark" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerardodonnarumma99&langs_count=8&layout=compact" width="45%" />
-</div>
+![gerardodonnarumma99's Stats](https://github-readme-stats.vercel.app/api?username=gerardodonnarumma99&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
